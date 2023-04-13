@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Gowtham from TN, India<br><br>- 🔭 I’m working as a Full stack developer <br>- 📚 I'm currently learning Astro, Markdown</p>
+<p align="left">I'm Gowtham from TN, India<br><br>- 🔭 I’m working as a Full stack developer <br>- 📚 I'm currently learning Astro</p>
 
 ###
 
